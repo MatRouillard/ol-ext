@@ -908,7 +908,6 @@ body > .ol-ext-dialog > form {
 }
 .ol-feature-list table thead {
   background-color: #f4f6f8;
-  position: -webkit-sticky;
   position: sticky;
   top: 0;
   overflow: hidden;
